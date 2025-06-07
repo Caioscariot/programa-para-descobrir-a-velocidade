@@ -1,0 +1,4 @@
+distancia = 5 
+tempo = 10
+velocidade = distancia/ tempo 
+print(velocidade)
