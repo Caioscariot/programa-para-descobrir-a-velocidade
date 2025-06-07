@@ -1,0 +1,4 @@
+distancia = int (input ('entre com a distancia: em metros'))
+tempo = int(input('entre com a distancia: em segundos  '))
+velocidade = distancia/tempo 
+print(' o valor da e velocidade ', velocidade,'m/s')
